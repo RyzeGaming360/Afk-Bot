@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "SleepBot",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "RyzeCommunity.aternos.me",
+    "port": 19925,
     "version": "1.17.1"
   },
 
